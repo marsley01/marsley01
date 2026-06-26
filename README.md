@@ -1,5 +1,61 @@
 # 💫 About Me:
-Act as an expert developer relations engineer. Generate a professional, modern, and visually striking GitHub Profile README for Marsley Guto Anunda (professionally known as Mash Marsley). <br><br>Profile Context:<br>- Role: Full-Stack Developer & Tech Entrepreneur based in Nairobi, Kenya.<br>- Mission: Passionate about UI/UX innovation, high-quality frontends, and scaling modern digital ecosystems.<br>- Current Ventures: Co-founder of Cyzora (a tech/web agency) and building platforms like Edyfra, Munchify, and Trivo Kenya.<br><br>Tech Stack & Tools to include as badges/icons:<br>- Frontend: React, TypeScript, Tailwind CSS, Next.js, HTML5, CSS3, JavaScript.<br>- Backend & Databases: Supabase, Node.js, Express, PostgreSQL.<br>- CMS & E-Commerce: WordPress, WooCommerce.<br>- Tools & Hosting: Git, GitHub, Netlify, Vercel, Supabase CLI.<br><br>Sections to include:<br>1. A brief, high-energy bio welcoming people to my profile.<br>2. A "What I'm Working On" or "Current Ventures" section highlighting Cyzora, Edyfra, Munchify, and Trivo Kenya.<br>3. A cleanly categorized "Tech Stack" section using icons/badges.<br>4. A "Let's Connect" section linking to my web presence.<br><br>Style Guidelines: Keep it sleek, professional, and bold. Avoid clunky or generic templates. Focus on clean layout hierarchy.
+# Hey there, I'm Mash Marsley! 👋🚀
+
+I am **Marsley Guto Anunda**, a Full-Stack Developer and Tech Entrepreneur based in Nairobi, Kenya. I spend my days turning complex ideas into clean, fast, and visually striking digital products. I’m deeply passionate about high-quality frontends, intuitive UI/UX design, and scaling ecosystems that actually solve real-world problems.
+
+When I'm not writing code, I'm usually figuring out the logistics of an e-commerce platform, optimizing performance workflows, or managing tech ventures.
+
+---
+
+### 🛠️ What I’m Building Right Now
+
+I don't just write code for fun; I build business ecosystems. Here is what's keeping my terminal busy lately:
+
+*   **⚡ Cyzora:** Co-founded this digital tech agency to deliver elite-tier web solutions and software architecture to clients looking to make a serious impact.
+*   **📚 Edyfra:** Engineering a modern platform built from scratch utilizing React, TypeScript, and Supabase for a seamless user experience.
+*   **🛒 Trivo Kenya:** Architecting digital infrastructure, e-commerce storefronts, and logistical workflows to streamline consumer retail.
+*   **🍔 Munchify:** Scaling interactive local service applications and streaming optimization solutions.
+
+---
+
+### 💻 My Tech Stack & Arsenal
+
+I believe in picking the right tool for the job to keep things fast, type-safe, and highly maintainable.
+
+#### **Frontend & UI/UX**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### **Backend, Databases & Infrastructure**
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### **CMS & Digital Commerce**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+#### **Tools, Deployments & Workflows**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C8B5?style=for-the-badge&logo=netlify&logoColor=white)
+
+---
+
+### 🤝 Let's Connect & Collaborate!
+
+Whether you want to talk web architecture, discuss a startup idea, collaborate on an open-source project, or just talk tech, let's catch up!
+
+*   🌐 **Check out my portfolio:** [marsley-mash-site.vercel.app](https://marsley-mash-site.vercel.app)
+*   🐙 **Follow me right here on GitHub:** [@marsley01](https://github.com/marsley01)
+
+*“Code is cheap. Building things that scale and look incredible while doing it? That’s the real craft.”* 🛠️✨
 
 
 ## 🌐 Socials:
