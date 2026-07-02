@@ -10,6 +10,14 @@ I am Marsley Guto Anunda (Mash Marsley), a Full-Stack Developer and Tech Entrepr
 
 ---
 
+## 💡 Motivation
+
+> "The best way to predict the future is to architect it." 
+
+For me, code isn't just about syntax; it's about engineering leverage. I am driven by the challenge of transforming raw ideas into high-fidelity, pixel-perfect digital ecosystems that streamline real-world commerce and human interaction. Every project is an exercise in building clean code, eliminating UI friction, and engineering systems that scale seamlessly without local boundaries.
+
+---
+
 ### 🛠️ What I’m Building Right Now
 
 I don't just write code for fun; I build business ecosystems. Here is what's keeping my terminal busy lately:
