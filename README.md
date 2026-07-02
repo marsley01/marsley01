@@ -5,11 +5,10 @@ I am Marsley Guto Anunda (Mash Marsley), a Full-Stack Developer and Tech Entrepr
 * 🌍 **Location:** Nairobi, Kenya
 * 💻 **Portfolio:** [marsley-mash-site.vercel.app](https://marsley-mash-site.vercel.app)
 * ✉️ **Contact:** [mashmarsley@gmail.com](mailto:mashmarsley@gmail.com)
-* 🚀 **Building:** **Cyzora**, **Edyfra**, and **Trivo Kenya**
-* 🧠 **Focus:** Elite-tier web solutions and scaling business architectures
-* 🤝 **Collaborations:** Premium full-stack builds and e-commerce infrastructure
-* ⚡ **Ask Me About:** Custom WooCommerce workflows, Supabase data structures, or premium UI execution
-
+* 🚀 **Building:** **Cyzora**, **Edyfra**, **Payment Systems** , **Algorithims**  and other **Private Projects**
+*  🧠 **Focus:** Building high-performance web apps and scalable system backends
+* 🤝 **Collaborations:** Open to hacking on clean full-stack builds or e-commerce platforms
+* ⚡ **Ask Me About:** Custom WooCommerce setups, Supabase data design, or high-end UI execution
 ---
 
 ## Motivation
