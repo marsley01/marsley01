@@ -26,15 +26,7 @@
 
 <div align="center">
 
-## CURRENTLY BUILDING
-
-<a href="https://edyfra-v2.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&text=EDYFRA&fontSize=32&fontColor=38BDF8&fontAlignY=55&animation=fadeIn" width="65%" />
-</a>
-
-**Learning infrastructure for students.**
-
-`matching` `real-time` `gamification` `community` `payments`
+`Working on: Edyfra · Munchify`
 
 </div>
 
@@ -110,13 +102,11 @@ Payment infrastructure and M-Pesa integrations.
 
 <td width="50%" valign="top">
 
-### MUNCHIFY
+### MORE
 
-Campus commerce and delivery platform.
+More experiments, products and projects.
 
-`Web` `Commerce` `Payments` `Logistics`
-
-[Website →](https://munchify.co.ke/)
+[View portfolio →](https://marsley-mash-site.vercel.app/)
 
 </td>
 </tr>
@@ -141,26 +131,6 @@ Campus commerce and delivery platform.
 <br><br>
 
 <img src="https://raw.githubusercontent.com/marsley01/marsley01/output/github-contribution-grid-snake-dark.svg" width="90%" />
-
-</div>
-
----
-
-<div align="center">
-
-## TOOLKIT
-
-```text
-NEXT.JS     TYPESCRIPT     REACT       NODE.JS
-SUPABASE    POSTGRESQL     REDIS       PYTHON
-TAILWIND    THREE.JS       DOCKER      VERCEL
-GIT         GITHUB         BASH        LINUX
-CLOUDFLARE  M-PESA         REST        APIs
-```
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,js,nodejs,python,supabase,postgres,redis,git,github,bash,docker,vercel,cloudflare,linux&theme=dark&perline=8" />
 
 </div>
 
