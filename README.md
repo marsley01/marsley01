@@ -32,7 +32,16 @@ A payment gateway for Kenyan businesses. One integration covers M-Pesa and every
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://agent-preflight-eight.vercel.app/"><img src="assets/preflight.jpg" alt="Agent Preflight scan page" width="100%"></a>
+<a href="https://trivokenya.store"><img src="assets/trivo.webp" alt="Scrolling through the Trivo Kenya store" width="100%"></a>
+
+**Trivo Kenya** &nbsp;·&nbsp; online store
+
+A shop for genuine phones and laptops in Kenya. Customers order on WhatsApp or check out and pay with M-Pesa or on delivery.
+
+[trivokenya.store](https://trivokenya.store)
+</td>
+<td width="50%" valign="top">
+<a href="https://agent-preflight-eight.vercel.app/"><img src="assets/preflight-terminal.svg" alt="Agent Preflight scanning a project and reporting two critical issues" width="100%"></a>
 
 **Agent Preflight** &nbsp;·&nbsp; open source
 
@@ -40,7 +49,15 @@ Scans a repo for the mistakes AI coding agents keep making: exposed API keys, mi
 
 [Try it](https://agent-preflight-eight.vercel.app/) &nbsp;/&nbsp; [Code](https://github.com/marsley01/agent-preflight)
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="middle">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/fixit-dark.svg">
+  <img src="assets/fixit-light.svg" alt="A website with a broken layout snapping back into place" width="100%">
+</picture>
+</td>
+<td width="50%" valign="middle">
 
 **Something broken on your website?**
 
@@ -55,4 +72,7 @@ Fixes from KSh 1,500. I reply within a day.
 
 ## What I work with
 
-Next.js, React, TypeScript, Node.js and Python. Supabase and PostgreSQL for data, Tailwind for styling, M-Pesa for payments, and Vercel and Cloudflare for hosting.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Next.js, React, TypeScript, Node.js, Python, Tailwind CSS, Supabase, PostgreSQL, M-Pesa, Vercel, Cloudflare and GitHub" width="100%">
+</picture>
